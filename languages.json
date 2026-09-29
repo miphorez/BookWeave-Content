@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "languages": [
+    {
+      "tag": "ru",
+      "status": "available",
+      "note": "Two owner-approved original editions"
+    },
+    {
+      "tag": "en",
+      "status": "planned",
+      "note": "Publish only after translation review and owner approval"
+    }
+  ]
+}

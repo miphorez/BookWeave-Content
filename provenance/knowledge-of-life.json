@@ -1,0 +1,705 @@
+{
+  "schemaVersion": 1,
+  "sourceUrl": "https://sites.google.com/site/newchanneling",
+  "snapshotDate": "2026-09-22",
+  "indexSha256": "1bb485aefa5790f5b6796ffd58ac69c87ca6d1d90c02f37cbb6c6cf75c9cc2ee",
+  "priorPublication": {
+    "url": "https://proza.ru/2025/04/24/862",
+    "publishedOn": "2025-04-24",
+    "certificateNumber": "225042400862",
+    "authorCredit": "Соловьёв Дмитрий",
+    "note": "Evidence of publication of the work; the foreword may differ from this edition"
+  },
+  "editorialAdjustments": [
+    {
+      "date": "2026-09-27",
+      "approval": "Owner request",
+      "change": "Omit the foreword from the book-summary heading to the first dated entry; preserve the opening paragraph."
+    },
+    {
+      "date": "2026-09-27",
+      "approval": "Owner request",
+      "change": "Use single line breaks between dated-entry body blocks; preserve the date/body separator."
+    }
+  ],
+  "editorialStatus": "Owner-approved canonical Russian edition on 2026-09-29",
+  "pages": [
+    {
+      "id": "foreword",
+      "url": "https://sites.google.com/site/newchanneling/предисловие",
+      "sourceSha256": "93db3366323302bcd40cb54c0a35de833464956e0200be0c2219ab3232b7b20f",
+      "textSha256": "3dfbeff90886f4720b2065cf64c82577847e7e336ed0833a8bb88acd54152da8",
+      "blockCount": 2,
+      "omittedNavigation": [
+        "к последней записи...                                                                                                     дальше - 22.06.2012"
+      ],
+      "omittedEditorialBlocks": [
+        "О чём эта книга?",
+        "В центре откровения — преображение человечества через три ключевые силы:",
+        "Знание — огонь, сжигающий \"ветхого человека\" (привязанность к иллюзиям, лень, страх).",
+        "Творчество — воздух новой эры, пронизывающий каждый момент жизни, от труда до быта.",
+        "Свобода духа — итог пути, где человек и Земля объединяются в гармонии.",
+        "Текст делится на откровения, подобные ступеням лестницы:",
+        "Разрушение Мрака: \"Врага больше нет\" — победа света над тьмой уже свершилась в высших планах.",
+        "Рождение нового сознания: Подсознание становится мостом к духу, а знаки — путеводными вехами.",
+        "Эра творчества: Жизнь превращается в непрерывный акт созидания, где даже питание — искусство.",
+        "Союз с Землёй: Человек исцеляет планету, отказываясь от насилия, а животные становятся \"верными друзьями\".",
+        "Стиль и форма",
+        "Написано ритмичной прозой, где повторяющиеся фразы (\"Знание умеет ждать\", \"Огни духа будут вехами\") создают эффект сакрального гимна. Каждый абзац — афористичный тезис, требующий не чтения, но медитации.",
+        "Философские корни",
+        "Гностицизм: Знание как освобождение.",
+        "Ноосферные идеи Вернадского: Человек — сила, преображающая планету.",
+        "Агни-Йога: Луч Знания как проводник высшей воли.",
+        "Ключевые символы",
+        "\"Огни духа\" — воплощённые намерения, поднимающие сознание.",
+        "\"Ветхий человек\" — старое \"я\", цепляющееся за иллюзии.",
+        "\"Земля-мать\" — живое существо, ждущее исцеления.",
+        "Для кого эта книга?",
+        "Для тех, кто:",
+        "Чувствует зов эволюции и готов стать \"человеком духа\".",
+        "Верит, что мысли и намерения творят реальность.",
+        "Готов взять ответственность за Землю, как садовник за свой сад.",
+        "Как читать?\nНе спешите. Пусть каждая фраза резонирует с вашим внутренним знанием. Это не инструкция, а пробуждение — текст говорит с тем, кто уже готов услышать.",
+        "\"Знание изменит климат Земли. Так Земля ответит человеку на его заботу\".",
+        "Эти слова — не метафора, но пророчество. Стоит ли удивляться, что в эпоху экологических кризисов нам напоминают: спасение — в союзе Знания, Творчества и Любви.",
+        "P.S. Если вы готовы стать одним из \"строителей нового мира\", откройте первую страницу. Ваше путешествие начинается здесь."
+      ]
+    },
+    {
+      "id": "entry-2012-06-22",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/22-06-2012",
+      "sourceSha256": "79631e0dbd6dbd3d75f53796c00e4aaa495f115162f32f47b071650e4b823ba8",
+      "textSha256": "189ff75ed30a90c517498d62c4fa40547eae058f2513864f75ee9ceef3e97d04",
+      "blockCount": 10,
+      "omittedNavigation": [
+        "вернуться - Предисловие",
+        "дальше - 23.06.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-06-23",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/23-06-2012",
+      "sourceSha256": "da5b71a036f7b50c6c83f98cb83797572944ae4a05c22180065437ac7628beb5",
+      "textSha256": "8124a13300d2ff8f0cbd83d387a5aed88fd61a69af9d7b8373ff2a3c91d381ed",
+      "blockCount": 10,
+      "omittedNavigation": [
+        "вернуться - 22.06.2012",
+        "дальше - 25.06.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-06-25",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/25-06-2012",
+      "sourceSha256": "2bd364e46420dd994aeb3f59704c7beaaa2b28cb6933360f4fbf732329019dfa",
+      "textSha256": "08819f7fc18f5f9759cbbf17785165e2b066c460267bb67dc08415452fbaec18",
+      "blockCount": 14,
+      "omittedNavigation": [
+        "вернуться - 23.06.2012",
+        "дальше - 26.06.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-06-26",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/26-06-2012",
+      "sourceSha256": "a2f4fb86eca2ce2a5f458d90846af91ca947e3f1805581f6d48f6d98ef508f0a",
+      "textSha256": "96508375eed9860767b1ae7ffd5f991d4728c276b6f9e5869eb8799e226b3e72",
+      "blockCount": 13,
+      "omittedNavigation": [
+        "вернуться - 25.06.2012",
+        "дальше - 27.06.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-06-27",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/27-06-2012",
+      "sourceSha256": "67fc049c07c98c87a706dadb52713d91c3c47ec26276a28135aaa55183ecb86d",
+      "textSha256": "8f36d79ed7d9344155e9459e0885465bfe352537b4791946c5e3426560ea6e78",
+      "blockCount": 14,
+      "omittedNavigation": [
+        "вернуться - 26.06.2012",
+        "дальше - 28.06.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-06-28",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/28-06-2012",
+      "sourceSha256": "3e70c5ba85a21c9b7d4ca3f88f66ef4e853d92941ba6b6c8e63bce312b642d85",
+      "textSha256": "4f7d5f498fc2f740bfeb7b38a131b602a78550b1d316efafafefedb475a28884",
+      "blockCount": 7,
+      "omittedNavigation": [
+        "вернуться - 27.06.2012",
+        "дальше - 29.06.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-06-29",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-06/29-06-2012",
+      "sourceSha256": "2b0f4791a2e19ca57e9d757fbe53407b709ce5aafc025c8e0c7a641cf2938384",
+      "textSha256": "fa0d807c4b4f8da9f90b6ea7c671e31add4b0971032f4b307bfda4e2eba2a5b4",
+      "blockCount": 8,
+      "omittedNavigation": [
+        "вернуться - 28.06.2012",
+        "дальше - 12.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-12",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/12-07-2012",
+      "sourceSha256": "c7ac598ec454a96c7301093b59a7db6e87b5fd444069c2d14ef2d0523746e183",
+      "textSha256": "34fb429af0648b1c711b983bd45766002b8125889496ccb5e2255e3f4afc01b1",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 29.06.2012",
+        "дальше - 13.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-13",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/13-07-2012",
+      "sourceSha256": "870fe99f99ed540fb295c8b232463047d5ec08a90b4b04a4a2ffc3e14f74dd0f",
+      "textSha256": "84f44e06050382af34735aaf362c9d6e5ee137f36bceec07d22ce252e2f69cf1",
+      "blockCount": 13,
+      "omittedNavigation": [
+        "вернуться - 12.07.2012",
+        "дальше - 14.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-14",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/14-07-2012",
+      "sourceSha256": "82f658bdfab582e8fe82910e61caf91a598cec919949679d229bd98289ca3d1b",
+      "textSha256": "1f37e2ee92f8fca2df693bddabe41d83aeb20d7f091c9918de6bb399754bfd02",
+      "blockCount": 14,
+      "omittedNavigation": [
+        "вернуться - 13.07.2012",
+        "дальше - 15.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-15",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/15-07-2012",
+      "sourceSha256": "a4603dd8e22399c46becd5d6149a3768f306050012dacd0de88d5c19d3aed922",
+      "textSha256": "7535e23a5e4ec0e190d15a91329c146fb60a6946c3946a0129d632a9d7eb76ad",
+      "blockCount": 8,
+      "omittedNavigation": [
+        "вернуться - 14.07.2012",
+        "дальше - 16.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-16",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/16-07-2012",
+      "sourceSha256": "23f2caba997ed34322ff56ec8c6f9ed747b2b380173eca806e9a79c966bcf9de",
+      "textSha256": "0b9f0327b067716c6140e014cd61139b1c47256f5b05006d3670254de439a372",
+      "blockCount": 14,
+      "omittedNavigation": [
+        "вернуться - 15.07.2012",
+        "дальше - 20.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-20",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/20-07-2012",
+      "sourceSha256": "f31b8802120e83b2e3d1f0318693f4d842709841c5453e9e1e8d13f0836e28e3",
+      "textSha256": "30f9e576daea96e26a70554c38d2be06a613d6b59b22b641c147cb8873004ca0",
+      "blockCount": 8,
+      "omittedNavigation": [
+        "вернуться - 16.07.2012",
+        "дальше - 21.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-21",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/21-07-2012",
+      "sourceSha256": "31b314d3949215e01b4f0468650c1c869ddd98facf33026ac3fd0b8008361ab1",
+      "textSha256": "024433cfcaf55ff3da2ea4ac96536dfaf667c118ef4488de8fbff371fc776d33",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 20.07.2012",
+        "дальше - 22.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-22",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/22-07-2012",
+      "sourceSha256": "296b9c4ccd54a213ede54a68f6c59c9a8767975bf813e638a5b8fd1e58379597",
+      "textSha256": "86eda06ebd29b61937c5ae708e8ec3a1af03106bdd4bfbca5e923e9d50968a86",
+      "blockCount": 10,
+      "omittedNavigation": [
+        "вернуться - 21.07.2012",
+        "дальше - 23.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-23",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/23-07-2012",
+      "sourceSha256": "dc382c63692df44d67e6f2a6a7ff87e4d1743fcfa2219b7ffab5944ce121de84",
+      "textSha256": "5fdbd275390e1b61652a36b6cbea3a6e23cbe91ebbd5a19ac8191feec3674713",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 22.07.2012",
+        "дальше - 24.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-24",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/24-07-2012",
+      "sourceSha256": "18f371220fe7116d465a536dc8198e33fef72fcb58ec7aa7a1835a36de95de72",
+      "textSha256": "41a9286180c8f48f461019f1cc814b3d330117c54f5f26aefc5024615e9c2b06",
+      "blockCount": 13,
+      "omittedNavigation": [
+        "вернуться - 23.07.2012",
+        "дальше - 25.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-25",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/25-07-2012",
+      "sourceSha256": "c9cc9f87caa830f075e328ce46cba7bfb4f7964e99e5545bb393e37331fff00e",
+      "textSha256": "8a5466af6756f46d56f77234b991b7495b8cc3e6a5cb94443b6cbdf38c42ee9e",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 24.07.2012",
+        "дальше - 26.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-26",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/26-07-2012",
+      "sourceSha256": "9452d8f01512f38ac1af98beffe001171a4cb16948700365e76a00f8315c5bb2",
+      "textSha256": "eb8e846636b1002785515be4736e767fa9709673f955629b988e6591fbccb5c0",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 25.07.2012",
+        "дальше - 27.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-27",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/27-07-2012",
+      "sourceSha256": "66e0645b3114550094902d04d5e4ef1d949adacc3b7d47bea70ccd363bb78cd7",
+      "textSha256": "07c01c020d42db0870330027703bb24c264317aaea3eef99e2306638a73782e1",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 26.07.2012",
+        "дальше - 28.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-28",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/28-07-2012",
+      "sourceSha256": "3e81304f66a4c4cbb36250cb019a35ebdf6b0c48914b7f7210c35c87fca36bde",
+      "textSha256": "474c255d6ee5e5683d1ff484536d8f225f9001d1666771f3a121d624ec29bcd5",
+      "blockCount": 10,
+      "omittedNavigation": [
+        "вернуться - 27.07.2012",
+        "дальше - 29.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-29",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/29-07-2012",
+      "sourceSha256": "083e19cb6b00f8fce072564cbab7dac869c92af94b40d7ca92baa01f3f2d3f59",
+      "textSha256": "0732bf25484bced2148e5bdceede0371c17bb7c6e7f1749c87a69ea4aada74ec",
+      "blockCount": 10,
+      "omittedNavigation": [
+        "вернуться - 28.07.2012",
+        "дальше - 30.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-30",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/30-07-2012",
+      "sourceSha256": "e8dd76b973697c848b29bca01ff8dbdf9d3b150cbb40a755d6ffc89cdd23d94e",
+      "textSha256": "964475112a93b18f7f0d59513996b2fc1a9aa1188a684581eb8e5cf835849aa6",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 29.07.2012",
+        "дальше - 31.07.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-07-31",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-07/31-07-2012",
+      "sourceSha256": "576993b9a82c8235aedd8fb0970cc73d9b3d70d134ee01c852749bceafc68e32",
+      "textSha256": "fc0201f33eb416d03509848877cd6478dfa5c43e55f53f1431d750a11ca2bb49",
+      "blockCount": 12,
+      "omittedNavigation": [
+        "вернуться - 30.07.2012",
+        "дальше - 01.08.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-08-01",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-08/01-08-2012",
+      "sourceSha256": "315139fb715e07008c87d5bd2b53954a53e0f4c8476d37c4a323c8c009b76613",
+      "textSha256": "788e1e5b52e2c44a191e76ce65f8eadb322f5b43b77cb785835cad4c77320a88",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 31.07.2012",
+        "дальше - 02.08.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-08-02",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-08/02-08-2012",
+      "sourceSha256": "8757f70bb17d03b946f7aa221713ef76178d26488886ca767dbbd4dd1b226a09",
+      "textSha256": "098402b6998c38ed4cabf6bc08e5bb80b1e66243a55769dc8a01956829246815",
+      "blockCount": 7,
+      "omittedNavigation": [
+        "вернуться - 01.08.2012",
+        "дальше - 11.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-11",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/11-09-2012",
+      "sourceSha256": "028baa45c7bddf571a12662409804d6614f1f94fe7a2f6a6dcd2efc5c9009b45",
+      "textSha256": "f4bb24bd254dc3ef1f23fa5d56d10624dee654d16a058414ab2c99c0f53f42c1",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 02.08.2012",
+        "дальше - 12.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-12",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/12-09-2012",
+      "sourceSha256": "3cb35b513340776dff6bb02f8056969fddd5e597e5f5f794ff04a49f37ec78f8",
+      "textSha256": "019bdf3141410c103adf5aa3487fd930f77ada4c658876a6d30f498697209b77",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 11.09.2012",
+        "дальше - 13.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-13",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/13-09-2012",
+      "sourceSha256": "2864b612ca1c3aad38fd777d2306cfae54bc9bb1863fbb22a9108cd20cb2fe62",
+      "textSha256": "67c47a5f5b83923e38ef80e3b6e39c5823add228ccffddf38dcb283d16ec5b20",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 12.09.2012",
+        "дальше - 14.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-14",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/14-09-2012",
+      "sourceSha256": "34f36535ec921f8429dd27ef3b5813f57c440378bb6638dc741289e8df7813d4",
+      "textSha256": "90304127e118bbcbe7f965ca69843644b24ef2de196a59e54153e5f595f94c64",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 13.09.2012",
+        "дальше - 15.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-15",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/15-09-2012",
+      "sourceSha256": "1f38b1fde38ad5dd2bb350bca133e52e657ecb157d3cd0fbec14911220c530c9",
+      "textSha256": "038dbd43f07cf867227a25ff81ed423276568ef06f9b334acfd8688e52f93323",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 14.09.2012",
+        "дальше - 16.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-16",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/16-09-2012",
+      "sourceSha256": "4d666e37e97a77c90f52cae5eb648f3ec1e64516f239a9f872de08da2c906c95",
+      "textSha256": "f93c312455d388ee85d6578e79d71902b36f46a6360fef507f5de5acfa325d26",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 15.09.2012",
+        "дальше - 17.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-17",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/17-09-2012",
+      "sourceSha256": "0c9540aebcdce0ca0f2c5824520e5485474bcf0b8c3bfa5444f5e38876a5bf30",
+      "textSha256": "52621bf1a13373b5f852045335b5fbeea822ca9c8d764312f7c101adf5f4c87a",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 16.09.2012",
+        "дальше - 19.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-19",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/19-09-2012",
+      "sourceSha256": "9035e52382185fd9c8bc6890a150dae4a94be76701ba0cc2997cacb0068f4c09",
+      "textSha256": "638c334df01f30ad4cdca9b6e1c99f1021174f9c5f05ef7b0b89ce3829aef840",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 17.09.2012",
+        "дальше - 21.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-21",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/21-09-2012",
+      "sourceSha256": "7ab83b8587238aa8e4eeb8fb785dd5b24c0742da15592f50d99aed7714fe03b6",
+      "textSha256": "c6aa66e71c829dd19dfa2ec8f66411290899be418d499df0f10e9e975fbf4875",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 19.09.2012",
+        "дальше - 22.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-22",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/22-09-2012",
+      "sourceSha256": "e43b1dce8f00cca964c030c5c8cbdf081561e59917d0b38caee0f38c24d9c010",
+      "textSha256": "11e9f898a31dea2fc65f00df48e9ac32f30a3bc992c4f577487b8626eb5fbf6c",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 21.09.2012",
+        "дальше - 23.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-23",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/23-09-2012",
+      "sourceSha256": "2453d987828bc601728f61248b98ac73fa0fefaed62ec243e3700714ddede253",
+      "textSha256": "45bdb9332b1e05e2359b89c1d22dafe78e5b08230e42ac59026c4dec9e9364a7",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 22.09.2012",
+        "дальше - 24.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-24",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/24-09-2012",
+      "sourceSha256": "a2bf0fc52d08f6b22a52f347450fdc6b1cc754207bbbf69d272954d3f630f56a",
+      "textSha256": "42272bf4d520a848d7678e70e5a80783eb84466c5da4ee8af0351934c03a6a71",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 23.09.2012",
+        "дальше - 25.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-25",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/25-09-2012",
+      "sourceSha256": "d070b518515ed353e7e6df307d7d0490fb109e7aad8ad7d0851a345f52e95cb2",
+      "textSha256": "35e0e1172000c718af8cf7af62b002022c8786075c6f57ce1b7e950ac8fea918",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 24.09.2012",
+        "дальше - 28.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-28",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/28-09-2012",
+      "sourceSha256": "facdfaba20285af3deff9f79b6a979f910078049f5930cb4c747f99049e460b1",
+      "textSha256": "cde8787a1a671e8ef0d0c920389a2b1e195e37821821266bc93c2a1777c9b152",
+      "blockCount": 10,
+      "omittedNavigation": [
+        "вернуться - 25.09.2012",
+        "дальше - 30.09.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-09-30",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-09/30-09-2012",
+      "sourceSha256": "06dd66f8477d4e9c30f209a6108923ba35bcdf3886e75e08362ca8da82964e83",
+      "textSha256": "d7996f36f067dc77f3ea7c64c5925611e6bebaf0792b38dda5da91d671265815",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 28.09.2012",
+        "дальше - 01.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-01",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/01-10-2012",
+      "sourceSha256": "dd0a755a5ae5a60d042149841848667257370e5981389eea0a532d777e560641",
+      "textSha256": "2742134eef309ccb93b7124d74591605c3042be324bdc55524626e3b210be75d",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 30.09.2012",
+        "дальше - 02.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-02",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/02-10-2012",
+      "sourceSha256": "f44692271ed88f7c1c0deffb090f82ee00d24ee840c534208537ab42f3c3c64d",
+      "textSha256": "148fe5241489bc0ea389b165a9ad4abf7984890250b8f59c4623c1cc8765621b",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 01.10.2012",
+        "дальше - 03.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-03",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/03-10-2012",
+      "sourceSha256": "c6b6ec0849f8cca795af491cc3ed960260c27f3161df689322707f33807ae505",
+      "textSha256": "484c030a449acaf799a9feda4e5f4e9f642c8ae17290b45241999c4c50edd9c6",
+      "blockCount": 15,
+      "omittedNavigation": [
+        "вернуться - 02.10.2012",
+        "дальше - 06.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-06",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/06-10-2012",
+      "sourceSha256": "07e481e30eda1f965fba581984aa3b3b570a41a116600e3307f7c10886e0ff24",
+      "textSha256": "a1ad89a9b3b0ceb6528aadc0bdaf8d60b5baa7a9ecac4863ec3173600f46fae1",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 03.10.2012",
+        "дальше - 07.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-07",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/07-10-2012",
+      "sourceSha256": "df11eaae79e24708a40dc1cdb32dac1f3322761f1ae8f3966f6495dcc5586148",
+      "textSha256": "226cec81989e364884b25a97dda91869df6432358f94e3919492daaa6f96a49f",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 06.10.2012",
+        "дальше - 08.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-08",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/08-10-2012",
+      "sourceSha256": "4cc86844cd7025875e1ea492c397fa24a7a3356a945b4d7a41bd113e62bc42b8",
+      "textSha256": "a82ed27a676a968eb32a3fe4d88e3b49879b20ce84ca20ade3b1e94f670de88e",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 07.10.2012",
+        "дальше - 11.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-11",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/11-10-2012",
+      "sourceSha256": "b652109a0e0d66cfb3f2fa5663ecdf61a62503cbfb77ef7b3e8d4cfb127cea96",
+      "textSha256": "6dc7c2111355c65bdfb36ede751d27c19130ced7877e054317718eb109e7955d",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 08.10.2012",
+        "дальше - 14.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-14",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/14-10-2012",
+      "sourceSha256": "2e902a3a9a905f98b81a7767c7bcc25d57b852265f51bd84a592ec066fa1ca3b",
+      "textSha256": "12c189810505a1ae9caf8d82a157e46315fb01ed45549fefa551e8da7eca61f7",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 11.10.2012",
+        "дальше - 15.10.2012 "
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-15",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/15-10-2012",
+      "sourceSha256": "e7f6f4085d6f116d6fafb800d4401ffbfde7c18f1deb7c8f02aab20d258f2b46",
+      "textSha256": "e97279b1d55d2446ac88ae96b286d769e629753e2301cf85f4d37633737f0251",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 14.10.2012",
+        "дальше - 16.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-16",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/16-10-2012",
+      "sourceSha256": "fbe9d49854db647c6d6262d3bbc11cdbef5d9083f28568ab33980e9986c61181",
+      "textSha256": "45d120c53a4024c3460b3c8a827d810f029ec3946c53d12e571aaf68122f9c4b",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 15.10.2012",
+        "дальше - 20.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-20",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/20-10-2012",
+      "sourceSha256": "00dce18800c132c1918088c61f20a1e11176cacf11e347b0a050b273d84f394d",
+      "textSha256": "494448e907d215105aa45d13d69f266ae779ddd5cf01fda31f06ced71bee6394",
+      "blockCount": 11,
+      "omittedNavigation": [
+        "вернуться - 16.10.2012",
+        "дальше - 21.10.2012"
+      ],
+      "omittedEditorialBlocks": []
+    },
+    {
+      "id": "entry-2012-10-21",
+      "url": "https://sites.google.com/site/newchanneling/2012/2012-10/21-10-2012",
+      "sourceSha256": "6e5de0b2e9d906c5d53f4a4994488ae7b6593e70210140c767c5fcb64d893167",
+      "textSha256": "5b9fa603703351e6cf1573519aad0ad5c14a2d9e718b3495c47e3eb69ee0c119",
+      "blockCount": 9,
+      "omittedNavigation": [
+        "вернуться - 20.10.2012",
+        "дальше - "
+      ],
+      "omittedEditorialBlocks": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+books/** -text
+source/** -text
+provenance/** -text
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.pem text eol=lf

@@ -1,0 +1,729 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "e7deda63787f87f46a540c760f256d0a8cd7ddff",
+  "sourceRef": "origin/v.1.3",
+  "priorPublication": {
+    "url": "https://proza.ru/2012/09/14/1802",
+    "publishedOn": "2012-09-14",
+    "certificateNumber": "212091401802",
+    "authorCredit": "Соловьёв Дмитрий",
+    "note": "Evidence of publication of the work; the foreword may differ from this edition"
+  },
+  "editorialStatus": "Owner-approved canonical Russian edition on 2026-09-29",
+  "fragments": [
+    {
+      "id": "part-0-fragment-1",
+      "part": 0,
+      "fragment": 1,
+      "sourcePath": "app/src/main/assets/part0/part0_1.txt",
+      "sha256": "0a316f2f1da8a5d7888bec4d7a68f2a36bcc86672ae4ecd6dd1d8c1620127ab9"
+    },
+    {
+      "id": "part-1-fragment-1",
+      "part": 1,
+      "fragment": 1,
+      "sourcePath": "app/src/main/assets/part1/part1_1.txt",
+      "sha256": "0df2122c43b21d4d2b184050a7a8c711d6f9ca5b1a8fceaf6c06671178db5e99"
+    },
+    {
+      "id": "part-1-fragment-13",
+      "part": 1,
+      "fragment": 13,
+      "sourcePath": "app/src/main/assets/part1/part1_13.txt",
+      "sha256": "9fbbde3245cb58c8f4f448e2baaca4b452aa831b8d854bafbc705142369ad5cc"
+    },
+    {
+      "id": "part-1-fragment-24",
+      "part": 1,
+      "fragment": 24,
+      "sourcePath": "app/src/main/assets/part1/part1_24.txt",
+      "sha256": "bf891049bab85bed1f1415a54576603a2366cf27211f4fbd9c34ea12c468e675"
+    },
+    {
+      "id": "part-1-fragment-29",
+      "part": 1,
+      "fragment": 29,
+      "sourcePath": "app/src/main/assets/part1/part1_29.txt",
+      "sha256": "2bd8dcac43a58fca668f2b912a44943e7a4113c469a1ce6e6783a47ed8174467"
+    },
+    {
+      "id": "part-1-fragment-36",
+      "part": 1,
+      "fragment": 36,
+      "sourcePath": "app/src/main/assets/part1/part1_36.txt",
+      "sha256": "0417d90190ac3366c4e5c9ef89b0554f489f6fab21972aeb7bd87f7636d2788e"
+    },
+    {
+      "id": "part-1-fragment-37",
+      "part": 1,
+      "fragment": 37,
+      "sourcePath": "app/src/main/assets/part1/part1_37.txt",
+      "sha256": "9a7998ac5cd13b51fde729c6d2574b71ec2bd93431aaad6ec7f356f1620326d4"
+    },
+    {
+      "id": "part-1-fragment-47",
+      "part": 1,
+      "fragment": 47,
+      "sourcePath": "app/src/main/assets/part1/part1_47.txt",
+      "sha256": "cd1646a7cd9951e41a57414353b7862e6f8a140c34fdb1b8c38727817c9e42a3"
+    },
+    {
+      "id": "part-1-fragment-57",
+      "part": 1,
+      "fragment": 57,
+      "sourcePath": "app/src/main/assets/part1/part1_57.txt",
+      "sha256": "7384977d75ad6beb9b80cbb97d7abd50777fb8405cf9cff69a2803e1f0a0d9d6"
+    },
+    {
+      "id": "part-1-fragment-67",
+      "part": 1,
+      "fragment": 67,
+      "sourcePath": "app/src/main/assets/part1/part1_67.txt",
+      "sha256": "03f431dcece3f70dc3949318b64e384222db7d98f343266a083791299174cf3f"
+    },
+    {
+      "id": "part-1-fragment-77",
+      "part": 1,
+      "fragment": 77,
+      "sourcePath": "app/src/main/assets/part1/part1_77.txt",
+      "sha256": "189605a230517be5f50e143f4272de711810aa1972fec558a37e7be0eedf85dd"
+    },
+    {
+      "id": "part-1-fragment-87",
+      "part": 1,
+      "fragment": 87,
+      "sourcePath": "app/src/main/assets/part1/part1_87.txt",
+      "sha256": "e4e2c601c0e4590fdc279be4566cc4ccc32b5e9bb8731c855ff22172669ba19e"
+    },
+    {
+      "id": "part-1-fragment-97",
+      "part": 1,
+      "fragment": 97,
+      "sourcePath": "app/src/main/assets/part1/part1_97.txt",
+      "sha256": "e11521b97dec3febd409f815caf8c6b46335ccf996063f9dc26999be67b7d5f7"
+    },
+    {
+      "id": "part-1-fragment-107",
+      "part": 1,
+      "fragment": 107,
+      "sourcePath": "app/src/main/assets/part1/part1_107.txt",
+      "sha256": "cb996ba0eae58a1deba3cae7ca878fb7a9e34635500934fa0a7e3f4a70564ac3"
+    },
+    {
+      "id": "part-1-fragment-117",
+      "part": 1,
+      "fragment": 117,
+      "sourcePath": "app/src/main/assets/part1/part1_117.txt",
+      "sha256": "d3f1627d434053c587ca526ca399a32acf91de9f121bcda58771b1b6b476b06a"
+    },
+    {
+      "id": "part-1-fragment-127",
+      "part": 1,
+      "fragment": 127,
+      "sourcePath": "app/src/main/assets/part1/part1_127.txt",
+      "sha256": "443e72aecd909392a2db13f146a390f125a7c34e6c61128ab654483ed8e8d640"
+    },
+    {
+      "id": "part-1-fragment-137",
+      "part": 1,
+      "fragment": 137,
+      "sourcePath": "app/src/main/assets/part1/part1_137.txt",
+      "sha256": "95b1193ce9b83c01ee8e36538f6ab40b05f241bc8a951af497582b23b62a291c"
+    },
+    {
+      "id": "part-1-fragment-147",
+      "part": 1,
+      "fragment": 147,
+      "sourcePath": "app/src/main/assets/part1/part1_147.txt",
+      "sha256": "4046d053cdb93d6ace7e271b8b376579bdfe4a8d46cde32e8b76749ed40ee4cb"
+    },
+    {
+      "id": "part-1-fragment-157",
+      "part": 1,
+      "fragment": 157,
+      "sourcePath": "app/src/main/assets/part1/part1_157.txt",
+      "sha256": "4423318c18b81031be362b78ca2d016230ba5061f1e383c33f0180edb5283de7"
+    },
+    {
+      "id": "part-1-fragment-167",
+      "part": 1,
+      "fragment": 167,
+      "sourcePath": "app/src/main/assets/part1/part1_167.txt",
+      "sha256": "ae0d1ffac5a5ffdd225623ff9e8f46185ddee66f9a04325da6242673a067ae2a"
+    },
+    {
+      "id": "part-1-fragment-177",
+      "part": 1,
+      "fragment": 177,
+      "sourcePath": "app/src/main/assets/part1/part1_177.txt",
+      "sha256": "8cab27e7aa837dae21b7d85500814a5c5b1bce869941a1e89762f3ee8eb43bbc"
+    },
+    {
+      "id": "part-1-fragment-187",
+      "part": 1,
+      "fragment": 187,
+      "sourcePath": "app/src/main/assets/part1/part1_187.txt",
+      "sha256": "13a611b0ebc8ce305e5e9d4d43c9bb5a9d2ff9170a0de0008dfd042ffcb31a5a"
+    },
+    {
+      "id": "part-1-fragment-197",
+      "part": 1,
+      "fragment": 197,
+      "sourcePath": "app/src/main/assets/part1/part1_197.txt",
+      "sha256": "7a62a5c38efae87ec77eb9239b8e9f2379141ddc761a2d4fc3cfcb99a26aa5fc"
+    },
+    {
+      "id": "part-2-fragment-1",
+      "part": 2,
+      "fragment": 1,
+      "sourcePath": "app/src/main/assets/part2/part2_1.txt",
+      "sha256": "fd9711c7aa8a1c1845060f2f7df49be372d67c399c7cc0e3d19dedf004661788"
+    },
+    {
+      "id": "part-2-fragment-11",
+      "part": 2,
+      "fragment": 11,
+      "sourcePath": "app/src/main/assets/part2/part2_11.txt",
+      "sha256": "f48df6d5217dec453dad903c107e132ec42eb52e33a06223de72755a9779dd2f"
+    },
+    {
+      "id": "part-2-fragment-21",
+      "part": 2,
+      "fragment": 21,
+      "sourcePath": "app/src/main/assets/part2/part2_21.txt",
+      "sha256": "8e3fccf4eb8ef3c716bd96727a5b96c1830d6984f87534557db4b95e099f5a89"
+    },
+    {
+      "id": "part-2-fragment-33",
+      "part": 2,
+      "fragment": 33,
+      "sourcePath": "app/src/main/assets/part2/part2_33.txt",
+      "sha256": "b13b52e2f2b7d5a7729ace4227862485f9be1ef50efd55f1b9d3a57ea526c846"
+    },
+    {
+      "id": "part-2-fragment-45",
+      "part": 2,
+      "fragment": 45,
+      "sourcePath": "app/src/main/assets/part2/part2_45.txt",
+      "sha256": "80b0b56f462187e6b22a6b3d737f7c6a3d4befe42cb337bde7f971844fdf90f4"
+    },
+    {
+      "id": "part-2-fragment-57",
+      "part": 2,
+      "fragment": 57,
+      "sourcePath": "app/src/main/assets/part2/part2_57.txt",
+      "sha256": "c42f4415121c781b3e1b5cf023da673d9d0dfd6a5a88368c01b0483e2b06198e"
+    },
+    {
+      "id": "part-2-fragment-69",
+      "part": 2,
+      "fragment": 69,
+      "sourcePath": "app/src/main/assets/part2/part2_69.txt",
+      "sha256": "986341f85f45825402d50504e8cb4c280ab5d019c508e69941de788f6f3eddc0"
+    },
+    {
+      "id": "part-2-fragment-81",
+      "part": 2,
+      "fragment": 81,
+      "sourcePath": "app/src/main/assets/part2/part2_81.txt",
+      "sha256": "db1faa5a52da7601bec7cf3fc07d4cad0a2791ae3211682e62455147318d752e"
+    },
+    {
+      "id": "part-2-fragment-93",
+      "part": 2,
+      "fragment": 93,
+      "sourcePath": "app/src/main/assets/part2/part2_93.txt",
+      "sha256": "23f3f6d2e77513ceb52e47e4ad0dd3c4d8590ace7bb86184762557f378e80418"
+    },
+    {
+      "id": "part-2-fragment-103",
+      "part": 2,
+      "fragment": 103,
+      "sourcePath": "app/src/main/assets/part2/part2_103.txt",
+      "sha256": "ed774e50fd6a244f2f0488f335e474e924077d19514f99bd94a202a63df08813"
+    },
+    {
+      "id": "part-2-fragment-113",
+      "part": 2,
+      "fragment": 113,
+      "sourcePath": "app/src/main/assets/part2/part2_113.txt",
+      "sha256": "47d7d856e5fac39326111fb6a0302d8c5a9c3360516350e46d4652d523552739"
+    },
+    {
+      "id": "part-2-fragment-123",
+      "part": 2,
+      "fragment": 123,
+      "sourcePath": "app/src/main/assets/part2/part2_123.txt",
+      "sha256": "49ea820820aa69de9662a9a0eb04739f552399b3ad56399f068c3ae6a481e8fa"
+    },
+    {
+      "id": "part-2-fragment-133",
+      "part": 2,
+      "fragment": 133,
+      "sourcePath": "app/src/main/assets/part2/part2_133.txt",
+      "sha256": "50a9b3de4edbbf32791e274c9cd57c5ee5b9439acc70d7af7583607edd302dd8"
+    },
+    {
+      "id": "part-2-fragment-143",
+      "part": 2,
+      "fragment": 143,
+      "sourcePath": "app/src/main/assets/part2/part2_143.txt",
+      "sha256": "9ded449678c67282543b41048a71ffb1c38020b644836f151519c65e8925c14b"
+    },
+    {
+      "id": "part-2-fragment-153",
+      "part": 2,
+      "fragment": 153,
+      "sourcePath": "app/src/main/assets/part2/part2_153.txt",
+      "sha256": "26cc6324a6a7f844eafe6dc84f7c52f921bf30065285ba6873a21db2d506fd54"
+    },
+    {
+      "id": "part-2-fragment-154",
+      "part": 2,
+      "fragment": 154,
+      "sourcePath": "app/src/main/assets/part2/part2_154.txt",
+      "sha256": "269fd44cfc34a4bf4fd70fe361604cd8bd8905cc099843b12c8595e54e9bfd31"
+    },
+    {
+      "id": "part-2-fragment-164",
+      "part": 2,
+      "fragment": 164,
+      "sourcePath": "app/src/main/assets/part2/part2_164.txt",
+      "sha256": "d2be60cdf87fcdee3ccf0edd6bd85e6bd9812427d933d9e2899c2430a3b81fb6"
+    },
+    {
+      "id": "part-2-fragment-174",
+      "part": 2,
+      "fragment": 174,
+      "sourcePath": "app/src/main/assets/part2/part2_174.txt",
+      "sha256": "e6730e8a6badc71ec6008cf010c81b26d1dac5199f3b23ce8184b9f774c11f32"
+    },
+    {
+      "id": "part-2-fragment-187",
+      "part": 2,
+      "fragment": 187,
+      "sourcePath": "app/src/main/assets/part2/part2_187.txt",
+      "sha256": "ed61f35aeec2b532079785f25e90413d320fc468bbcd87a48f5afefd83b190ed"
+    },
+    {
+      "id": "part-2-fragment-199",
+      "part": 2,
+      "fragment": 199,
+      "sourcePath": "app/src/main/assets/part2/part2_199.txt",
+      "sha256": "b58de8a6836f8d50c2945a86afdc498193826abd2214fcd704e2519fb0accf07"
+    },
+    {
+      "id": "part-2-fragment-211",
+      "part": 2,
+      "fragment": 211,
+      "sourcePath": "app/src/main/assets/part2/part2_211.txt",
+      "sha256": "21449c68c920421ae1ae7880559be6a26fd809f0cce0b19eea15d909064c44aa"
+    },
+    {
+      "id": "part-2-fragment-223",
+      "part": 2,
+      "fragment": 223,
+      "sourcePath": "app/src/main/assets/part2/part2_223.txt",
+      "sha256": "c527fcf3067783074eb2d44b75a3aeb3ddfd37b73b1eddb72d45529a81ca2bad"
+    },
+    {
+      "id": "part-2-fragment-235",
+      "part": 2,
+      "fragment": 235,
+      "sourcePath": "app/src/main/assets/part2/part2_235.txt",
+      "sha256": "8e73435a5c78485639c22dc21e061623ebbf1996e550edc772b3e66a53886bb4"
+    },
+    {
+      "id": "part-2-fragment-247",
+      "part": 2,
+      "fragment": 247,
+      "sourcePath": "app/src/main/assets/part2/part2_247.txt",
+      "sha256": "8d73db6bf3d7446117b0dd1a587a93489e42abe6574348bb1599fa7f66de185a"
+    },
+    {
+      "id": "part-2-fragment-259",
+      "part": 2,
+      "fragment": 259,
+      "sourcePath": "app/src/main/assets/part2/part2_259.txt",
+      "sha256": "e28662dbb4c0620bf6d03002b767c123548ee8a8deb0df75a8bd18966447c418"
+    },
+    {
+      "id": "part-2-fragment-271",
+      "part": 2,
+      "fragment": 271,
+      "sourcePath": "app/src/main/assets/part2/part2_271.txt",
+      "sha256": "5970e2ae9f8a70586a781d25842ce9e1ce88ae968e27077c774ad348b50a7605"
+    },
+    {
+      "id": "part-2-fragment-283",
+      "part": 2,
+      "fragment": 283,
+      "sourcePath": "app/src/main/assets/part2/part2_283.txt",
+      "sha256": "caa71665a8787b19c8ee834969d9c8992920b2e92ca3e7aae7b8580ba785fe30"
+    },
+    {
+      "id": "part-2-fragment-295",
+      "part": 2,
+      "fragment": 295,
+      "sourcePath": "app/src/main/assets/part2/part2_295.txt",
+      "sha256": "39370bc121df2e65bc41f7ed0d848f68e8c6b81b9346bbb5f50180bc088f5819"
+    },
+    {
+      "id": "part-2-fragment-307",
+      "part": 2,
+      "fragment": 307,
+      "sourcePath": "app/src/main/assets/part2/part2_307.txt",
+      "sha256": "30e54cbbc5ffe2de64d4f3adf7917d1b38f8849ce58d7e5b613e6b6c96cd549c"
+    },
+    {
+      "id": "part-2-fragment-319",
+      "part": 2,
+      "fragment": 319,
+      "sourcePath": "app/src/main/assets/part2/part2_319.txt",
+      "sha256": "dc7da773dd71679178b606e3d34459b2d866744ee700b9b031250c6f8b829ce7"
+    },
+    {
+      "id": "part-2-fragment-331",
+      "part": 2,
+      "fragment": 331,
+      "sourcePath": "app/src/main/assets/part2/part2_331.txt",
+      "sha256": "6d11700ba7b042eb81948d89aa7c02efd0ba6b76d976c78c03462f44f6b89625"
+    },
+    {
+      "id": "part-2-fragment-343",
+      "part": 2,
+      "fragment": 343,
+      "sourcePath": "app/src/main/assets/part2/part2_343.txt",
+      "sha256": "a2e4648b4f737a0885f5ad0a671ffa3523aab6cfb9b77395a8c4e16f99891d2a"
+    },
+    {
+      "id": "part-2-fragment-355",
+      "part": 2,
+      "fragment": 355,
+      "sourcePath": "app/src/main/assets/part2/part2_355.txt",
+      "sha256": "23f224954d6c12e2d912476b2cd631f083c9b3ad89e665c3b1e52d1587c82db0"
+    },
+    {
+      "id": "part-2-fragment-367",
+      "part": 2,
+      "fragment": 367,
+      "sourcePath": "app/src/main/assets/part2/part2_367.txt",
+      "sha256": "123d964c1d069bacb8efa21c6b42497c3a5b0d6db0394a983c86df1720a8c9fd"
+    },
+    {
+      "id": "part-3-fragment-1",
+      "part": 3,
+      "fragment": 1,
+      "sourcePath": "app/src/main/assets/part3/part3_1.txt",
+      "sha256": "132fc22c784a7b8c939a2487b2b11d919ddf9f8d157184cfece3f42e9c3b1aa4"
+    },
+    {
+      "id": "part-3-fragment-13",
+      "part": 3,
+      "fragment": 13,
+      "sourcePath": "app/src/main/assets/part3/part3_13.txt",
+      "sha256": "05c83cb448d3ec659e914ccf93c98c83552afff4582125099d23f3c9660e5e8e"
+    },
+    {
+      "id": "part-3-fragment-25",
+      "part": 3,
+      "fragment": 25,
+      "sourcePath": "app/src/main/assets/part3/part3_25.txt",
+      "sha256": "d8bbfb79f026d37f977fed2b5953ebfd75fd04d2bef4d2baa72ebd13c42a65a9"
+    },
+    {
+      "id": "part-3-fragment-37",
+      "part": 3,
+      "fragment": 37,
+      "sourcePath": "app/src/main/assets/part3/part3_37.txt",
+      "sha256": "0aeac9939f453119a7016c180867b31f5814e20abd70b9e8528330e603b1d0ec"
+    },
+    {
+      "id": "part-3-fragment-49",
+      "part": 3,
+      "fragment": 49,
+      "sourcePath": "app/src/main/assets/part3/part3_49.txt",
+      "sha256": "6ef03829989fa8d497f435d96c29500ee906758221420b63e548c9a422349ddd"
+    },
+    {
+      "id": "part-3-fragment-51",
+      "part": 3,
+      "fragment": 51,
+      "sourcePath": "app/src/main/assets/part3/part3_51.txt",
+      "sha256": "d140ad1b27e710699f3068a50ff0df55307188b6aae5c0371b71b492720d974d"
+    },
+    {
+      "id": "part-3-fragment-63",
+      "part": 3,
+      "fragment": 63,
+      "sourcePath": "app/src/main/assets/part3/part3_63.txt",
+      "sha256": "a3e21c774db0011fcdea4a6de91cccd45cc3c5cfcb4e1de2149537445759e2cc"
+    },
+    {
+      "id": "part-3-fragment-76",
+      "part": 3,
+      "fragment": 76,
+      "sourcePath": "app/src/main/assets/part3/part3_76.txt",
+      "sha256": "e3054a0bd6198d19619718c330877f66803829122e3c6a5be0392ad4ae2062cd"
+    },
+    {
+      "id": "part-3-fragment-84",
+      "part": 3,
+      "fragment": 84,
+      "sourcePath": "app/src/main/assets/part3/part3_84.txt",
+      "sha256": "1babb043b7ac7e504a2c195eb22e0fe8dacb7606073077f43d311c8cff54bec2"
+    },
+    {
+      "id": "part-3-fragment-96",
+      "part": 3,
+      "fragment": 96,
+      "sourcePath": "app/src/main/assets/part3/part3_96.txt",
+      "sha256": "3b43aaa0f784414cee732896c8960c9115fdc2f5aea6efc3ec769c3b4195d182"
+    },
+    {
+      "id": "part-3-fragment-109",
+      "part": 3,
+      "fragment": 109,
+      "sourcePath": "app/src/main/assets/part3/part3_109.txt",
+      "sha256": "7c0d5d453679490e0f4a6d19741a5bf02c037caa46237f443a405021d8a6d5d0"
+    },
+    {
+      "id": "part-3-fragment-121",
+      "part": 3,
+      "fragment": 121,
+      "sourcePath": "app/src/main/assets/part3/part3_121.txt",
+      "sha256": "ec02693749cfde9857e83367f17f471955a0fe73a6a66523bdac92ffb229fe2b"
+    },
+    {
+      "id": "part-3-fragment-133",
+      "part": 3,
+      "fragment": 133,
+      "sourcePath": "app/src/main/assets/part3/part3_133.txt",
+      "sha256": "11bc58d9009a68687c09b6e2f67addd9b87ee56e146f92e4b614422339aa9f90"
+    },
+    {
+      "id": "part-3-fragment-145",
+      "part": 3,
+      "fragment": 145,
+      "sourcePath": "app/src/main/assets/part3/part3_145.txt",
+      "sha256": "82b33eb950a54c7a6d27052eea84c948032dc4b0cdb510e24c78fdfe39216e61"
+    },
+    {
+      "id": "part-3-fragment-157",
+      "part": 3,
+      "fragment": 157,
+      "sourcePath": "app/src/main/assets/part3/part3_157.txt",
+      "sha256": "bbb36d26d384453c48d8b9ced40903d6b6753197ef52660f35ea8dacc7b32d4a"
+    },
+    {
+      "id": "part-3-fragment-170",
+      "part": 3,
+      "fragment": 170,
+      "sourcePath": "app/src/main/assets/part3/part3_170.txt",
+      "sha256": "762b3cef3df805f88d046da212a211845a75419b49cb6ea4511539ec52870bb2"
+    },
+    {
+      "id": "part-3-fragment-182",
+      "part": 3,
+      "fragment": 182,
+      "sourcePath": "app/src/main/assets/part3/part3_182.txt",
+      "sha256": "ce2acfeae83567bb41727e050aabf10e32efa2f1274414aaebfca58c8b018f4b"
+    },
+    {
+      "id": "part-3-fragment-192",
+      "part": 3,
+      "fragment": 192,
+      "sourcePath": "app/src/main/assets/part3/part3_192.txt",
+      "sha256": "f8b95523048bf715c80b996f6b6cd06d9e045dc6f8485c76a5a1991104f66d6d"
+    },
+    {
+      "id": "part-3-fragment-205",
+      "part": 3,
+      "fragment": 205,
+      "sourcePath": "app/src/main/assets/part3/part3_205.txt",
+      "sha256": "3f3641928f8ecbb88b88c0076aa6c7a3cff34d678c62ce3a57f527ecc48a449a"
+    },
+    {
+      "id": "part-3-fragment-217",
+      "part": 3,
+      "fragment": 217,
+      "sourcePath": "app/src/main/assets/part3/part3_217.txt",
+      "sha256": "6d6e91011c5fd2fe3a3c49cc00b0ba9cecc3abcec6af3219c730a82ff4b2b5ac"
+    },
+    {
+      "id": "part-3-fragment-229",
+      "part": 3,
+      "fragment": 229,
+      "sourcePath": "app/src/main/assets/part3/part3_229.txt",
+      "sha256": "c7c49e6bdb3962341e693cbc036823f4bd51c06fb91e9cbf4382fd6f74c85245"
+    },
+    {
+      "id": "part-4-fragment-1",
+      "part": 4,
+      "fragment": 1,
+      "sourcePath": "app/src/main/assets/part4/part4_1.txt",
+      "sha256": "1d1630d796562362665ab9c3b3dabf88aa1deba0e8cbaed4e23a711609aac9c7"
+    },
+    {
+      "id": "part-4-fragment-12",
+      "part": 4,
+      "fragment": 12,
+      "sourcePath": "app/src/main/assets/part4/part4_12.txt",
+      "sha256": "f92201be8832e4a4a3c24ce19489de0076135660b4f81ee7d918db07eba1bfb6"
+    },
+    {
+      "id": "part-4-fragment-21",
+      "part": 4,
+      "fragment": 21,
+      "sourcePath": "app/src/main/assets/part4/part4_21.txt",
+      "sha256": "425acc3296345e0ec1723fb13b9446fa49bc0ea196681d654b0f725604649178"
+    },
+    {
+      "id": "part-4-fragment-34",
+      "part": 4,
+      "fragment": 34,
+      "sourcePath": "app/src/main/assets/part4/part4_34.txt",
+      "sha256": "2ea4bf00dfb22afe47c3df36a1138fa987dafd83cda4baab9d53937d34e356d3"
+    },
+    {
+      "id": "part-4-fragment-54",
+      "part": 4,
+      "fragment": 54,
+      "sourcePath": "app/src/main/assets/part4/part4_54.txt",
+      "sha256": "4d86c5326a73c3adab7bbc3b665234923209119662175c3a60bcbfde5d14e500"
+    },
+    {
+      "id": "part-4-fragment-69",
+      "part": 4,
+      "fragment": 69,
+      "sourcePath": "app/src/main/assets/part4/part4_69.txt",
+      "sha256": "4cec77113e3b5ada9408d3bda0b7acfe97cccc1fc569044b3625829b40812178"
+    },
+    {
+      "id": "part-4-fragment-81",
+      "part": 4,
+      "fragment": 81,
+      "sourcePath": "app/src/main/assets/part4/part4_81.txt",
+      "sha256": "7f119c75ba6c9bae22ad78ed59e5ed5a259f0267e9c77643177325cbe2613998"
+    },
+    {
+      "id": "part-4-fragment-92",
+      "part": 4,
+      "fragment": 92,
+      "sourcePath": "app/src/main/assets/part4/part4_92.txt",
+      "sha256": "9339921b35727b91f429a562111ac9c3dfd4f178cdd942f62647c35bb81b7951"
+    },
+    {
+      "id": "part-4-fragment-103",
+      "part": 4,
+      "fragment": 103,
+      "sourcePath": "app/src/main/assets/part4/part4_103.txt",
+      "sha256": "6bd18f9b982a3fbc94885c901a7416efa6864ad9e8e32c5ba484a23e09bd5740"
+    },
+    {
+      "id": "part-4-fragment-115",
+      "part": 4,
+      "fragment": 115,
+      "sourcePath": "app/src/main/assets/part4/part4_115.txt",
+      "sha256": "ed0205f38c28823cef183e6bb4c9cb20e4f23f5c491080cf2bc770913707d8ab"
+    },
+    {
+      "id": "part-4-fragment-126",
+      "part": 4,
+      "fragment": 126,
+      "sourcePath": "app/src/main/assets/part4/part4_126.txt",
+      "sha256": "49b7eaaf44ea4faf5217843b96b3d3d0e1b42fbdd00eee6debafa22fa3f0757f"
+    },
+    {
+      "id": "part-4-fragment-138",
+      "part": 4,
+      "fragment": 138,
+      "sourcePath": "app/src/main/assets/part4/part4_138.txt",
+      "sha256": "ca9a15a92de6ef8319b345bd930a3cd37f64b97a71da3398c4b90a0028b39501"
+    },
+    {
+      "id": "part-4-fragment-150",
+      "part": 4,
+      "fragment": 150,
+      "sourcePath": "app/src/main/assets/part4/part4_150.txt",
+      "sha256": "d96dfe4b1427ea6c95bdd48bb8f542325cf8cb3258cb981da322e093996710c0"
+    },
+    {
+      "id": "part-4-fragment-161",
+      "part": 4,
+      "fragment": 161,
+      "sourcePath": "app/src/main/assets/part4/part4_161.txt",
+      "sha256": "ddfc924030fe0e57dc6d648055b84330ee61267768ec6cb275700c12eb6df6d7"
+    },
+    {
+      "id": "part-4-fragment-173",
+      "part": 4,
+      "fragment": 173,
+      "sourcePath": "app/src/main/assets/part4/part4_173.txt",
+      "sha256": "e5605b8a72deb94ba40fecd554c801bd8353277b64b29d82aa6673e7e4a36801"
+    },
+    {
+      "id": "part-4-fragment-187",
+      "part": 4,
+      "fragment": 187,
+      "sourcePath": "app/src/main/assets/part4/part4_187.txt",
+      "sha256": "babdd8f28b55b829df0cf67d847f18271e6d38e5b4d22f2fe6c641c175bc1622"
+    },
+    {
+      "id": "part-4-fragment-199",
+      "part": 4,
+      "fragment": 199,
+      "sourcePath": "app/src/main/assets/part4/part4_199.txt",
+      "sha256": "d04f60adbe405414045d50d4e34dc7be85574945e1fe747f798f2097f33feb21"
+    },
+    {
+      "id": "part-4-fragment-212",
+      "part": 4,
+      "fragment": 212,
+      "sourcePath": "app/src/main/assets/part4/part4_212.txt",
+      "sha256": "4255dd03e9a36961f2f71c880f93d8739fa52fcd4256cdccf32d5b6979a8cf33"
+    },
+    {
+      "id": "part-4-fragment-224",
+      "part": 4,
+      "fragment": 224,
+      "sourcePath": "app/src/main/assets/part4/part4_224.txt",
+      "sha256": "266bdfb2dc6d7d15b63e7fae09105b33b020abd7eaa1635308348801ff7902e9"
+    },
+    {
+      "id": "part-4-fragment-236",
+      "part": 4,
+      "fragment": 236,
+      "sourcePath": "app/src/main/assets/part4/part4_236.txt",
+      "sha256": "e27ae0828c378605a7eb9571236366ebc1c0825d89c098e8fef2c61c6504999a"
+    },
+    {
+      "id": "part-4-fragment-248",
+      "part": 4,
+      "fragment": 248,
+      "sourcePath": "app/src/main/assets/part4/part4_248.txt",
+      "sha256": "12bc0278b1bc308a4ed3d56868a5daa312e4439489a03b26ea60c772a60b60fd"
+    },
+    {
+      "id": "part-4-fragment-260",
+      "part": 4,
+      "fragment": 260,
+      "sourcePath": "app/src/main/assets/part4/part4_260.txt",
+      "sha256": "a176ea00fed105dbed973747432b1118d71e52288895f5434c02ce0bd7751400"
+    },
+    {
+      "id": "part-5-fragment-1",
+      "part": 5,
+      "fragment": 1,
+      "sourcePath": "app/src/main/assets/part5/part5_1.txt",
+      "sha256": "4e9cba7e847764a2b5e2ac3f99dc1ec06311c4a9a1528ce17ecb046be754694f"
+    },
+    {
+      "id": "part-5-fragment-14",
+      "part": 5,
+      "fragment": 14,
+      "sourcePath": "app/src/main/assets/part5/part5_14.txt",
+      "sha256": "b8bbfcef7fd19414611f1702e7e3388adcd19e7a09a0ee38de8ed75210774bc8"
+    }
+  ]
+}
