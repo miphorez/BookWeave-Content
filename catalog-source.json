@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
-  "releaseTag": "content-v1",
+  "catalogVersion": 2,
+  "releaseTag": "content-v2",
   "keyId": "publisher-v1",
   "books": [
     {
@@ -17,6 +17,528 @@
           "sha256": "d4a406bec45fbc112c693d594f5f2980f6f12e88df4652c17c6bbde40a173f75",
           "approvalStatus": "owner-approved",
           "approvedAt": "2026-09-29",
+          "chapters": [
+            {
+              "id": "part-0-fragment-1",
+              "part": 0,
+              "fragment": 1
+            },
+            {
+              "id": "part-1-fragment-1",
+              "part": 1,
+              "fragment": 1
+            },
+            {
+              "id": "part-1-fragment-13",
+              "part": 1,
+              "fragment": 13
+            },
+            {
+              "id": "part-1-fragment-24",
+              "part": 1,
+              "fragment": 24
+            },
+            {
+              "id": "part-1-fragment-29",
+              "part": 1,
+              "fragment": 29
+            },
+            {
+              "id": "part-1-fragment-36",
+              "part": 1,
+              "fragment": 36
+            },
+            {
+              "id": "part-1-fragment-37",
+              "part": 1,
+              "fragment": 37
+            },
+            {
+              "id": "part-1-fragment-47",
+              "part": 1,
+              "fragment": 47
+            },
+            {
+              "id": "part-1-fragment-57",
+              "part": 1,
+              "fragment": 57
+            },
+            {
+              "id": "part-1-fragment-67",
+              "part": 1,
+              "fragment": 67
+            },
+            {
+              "id": "part-1-fragment-77",
+              "part": 1,
+              "fragment": 77
+            },
+            {
+              "id": "part-1-fragment-87",
+              "part": 1,
+              "fragment": 87
+            },
+            {
+              "id": "part-1-fragment-97",
+              "part": 1,
+              "fragment": 97
+            },
+            {
+              "id": "part-1-fragment-107",
+              "part": 1,
+              "fragment": 107
+            },
+            {
+              "id": "part-1-fragment-117",
+              "part": 1,
+              "fragment": 117
+            },
+            {
+              "id": "part-1-fragment-127",
+              "part": 1,
+              "fragment": 127
+            },
+            {
+              "id": "part-1-fragment-137",
+              "part": 1,
+              "fragment": 137
+            },
+            {
+              "id": "part-1-fragment-147",
+              "part": 1,
+              "fragment": 147
+            },
+            {
+              "id": "part-1-fragment-157",
+              "part": 1,
+              "fragment": 157
+            },
+            {
+              "id": "part-1-fragment-167",
+              "part": 1,
+              "fragment": 167
+            },
+            {
+              "id": "part-1-fragment-177",
+              "part": 1,
+              "fragment": 177
+            },
+            {
+              "id": "part-1-fragment-187",
+              "part": 1,
+              "fragment": 187
+            },
+            {
+              "id": "part-1-fragment-197",
+              "part": 1,
+              "fragment": 197
+            },
+            {
+              "id": "part-2-fragment-1",
+              "part": 2,
+              "fragment": 1
+            },
+            {
+              "id": "part-2-fragment-11",
+              "part": 2,
+              "fragment": 11
+            },
+            {
+              "id": "part-2-fragment-21",
+              "part": 2,
+              "fragment": 21
+            },
+            {
+              "id": "part-2-fragment-33",
+              "part": 2,
+              "fragment": 33
+            },
+            {
+              "id": "part-2-fragment-45",
+              "part": 2,
+              "fragment": 45
+            },
+            {
+              "id": "part-2-fragment-57",
+              "part": 2,
+              "fragment": 57
+            },
+            {
+              "id": "part-2-fragment-69",
+              "part": 2,
+              "fragment": 69
+            },
+            {
+              "id": "part-2-fragment-81",
+              "part": 2,
+              "fragment": 81
+            },
+            {
+              "id": "part-2-fragment-93",
+              "part": 2,
+              "fragment": 93
+            },
+            {
+              "id": "part-2-fragment-103",
+              "part": 2,
+              "fragment": 103
+            },
+            {
+              "id": "part-2-fragment-113",
+              "part": 2,
+              "fragment": 113
+            },
+            {
+              "id": "part-2-fragment-123",
+              "part": 2,
+              "fragment": 123
+            },
+            {
+              "id": "part-2-fragment-133",
+              "part": 2,
+              "fragment": 133
+            },
+            {
+              "id": "part-2-fragment-143",
+              "part": 2,
+              "fragment": 143
+            },
+            {
+              "id": "part-2-fragment-153",
+              "part": 2,
+              "fragment": 153
+            },
+            {
+              "id": "part-2-fragment-154",
+              "part": 2,
+              "fragment": 154
+            },
+            {
+              "id": "part-2-fragment-164",
+              "part": 2,
+              "fragment": 164
+            },
+            {
+              "id": "part-2-fragment-174",
+              "part": 2,
+              "fragment": 174
+            },
+            {
+              "id": "part-2-fragment-187",
+              "part": 2,
+              "fragment": 187
+            },
+            {
+              "id": "part-2-fragment-199",
+              "part": 2,
+              "fragment": 199
+            },
+            {
+              "id": "part-2-fragment-211",
+              "part": 2,
+              "fragment": 211
+            },
+            {
+              "id": "part-2-fragment-223",
+              "part": 2,
+              "fragment": 223
+            },
+            {
+              "id": "part-2-fragment-235",
+              "part": 2,
+              "fragment": 235
+            },
+            {
+              "id": "part-2-fragment-247",
+              "part": 2,
+              "fragment": 247
+            },
+            {
+              "id": "part-2-fragment-259",
+              "part": 2,
+              "fragment": 259
+            },
+            {
+              "id": "part-2-fragment-271",
+              "part": 2,
+              "fragment": 271
+            },
+            {
+              "id": "part-2-fragment-283",
+              "part": 2,
+              "fragment": 283
+            },
+            {
+              "id": "part-2-fragment-295",
+              "part": 2,
+              "fragment": 295
+            },
+            {
+              "id": "part-2-fragment-307",
+              "part": 2,
+              "fragment": 307
+            },
+            {
+              "id": "part-2-fragment-319",
+              "part": 2,
+              "fragment": 319
+            },
+            {
+              "id": "part-2-fragment-331",
+              "part": 2,
+              "fragment": 331
+            },
+            {
+              "id": "part-2-fragment-343",
+              "part": 2,
+              "fragment": 343
+            },
+            {
+              "id": "part-2-fragment-355",
+              "part": 2,
+              "fragment": 355
+            },
+            {
+              "id": "part-2-fragment-367",
+              "part": 2,
+              "fragment": 367
+            },
+            {
+              "id": "part-3-fragment-1",
+              "part": 3,
+              "fragment": 1
+            },
+            {
+              "id": "part-3-fragment-13",
+              "part": 3,
+              "fragment": 13
+            },
+            {
+              "id": "part-3-fragment-25",
+              "part": 3,
+              "fragment": 25
+            },
+            {
+              "id": "part-3-fragment-37",
+              "part": 3,
+              "fragment": 37
+            },
+            {
+              "id": "part-3-fragment-49",
+              "part": 3,
+              "fragment": 49
+            },
+            {
+              "id": "part-3-fragment-51",
+              "part": 3,
+              "fragment": 51
+            },
+            {
+              "id": "part-3-fragment-63",
+              "part": 3,
+              "fragment": 63
+            },
+            {
+              "id": "part-3-fragment-76",
+              "part": 3,
+              "fragment": 76
+            },
+            {
+              "id": "part-3-fragment-84",
+              "part": 3,
+              "fragment": 84
+            },
+            {
+              "id": "part-3-fragment-96",
+              "part": 3,
+              "fragment": 96
+            },
+            {
+              "id": "part-3-fragment-109",
+              "part": 3,
+              "fragment": 109
+            },
+            {
+              "id": "part-3-fragment-121",
+              "part": 3,
+              "fragment": 121
+            },
+            {
+              "id": "part-3-fragment-133",
+              "part": 3,
+              "fragment": 133
+            },
+            {
+              "id": "part-3-fragment-145",
+              "part": 3,
+              "fragment": 145
+            },
+            {
+              "id": "part-3-fragment-157",
+              "part": 3,
+              "fragment": 157
+            },
+            {
+              "id": "part-3-fragment-170",
+              "part": 3,
+              "fragment": 170
+            },
+            {
+              "id": "part-3-fragment-182",
+              "part": 3,
+              "fragment": 182
+            },
+            {
+              "id": "part-3-fragment-192",
+              "part": 3,
+              "fragment": 192
+            },
+            {
+              "id": "part-3-fragment-205",
+              "part": 3,
+              "fragment": 205
+            },
+            {
+              "id": "part-3-fragment-217",
+              "part": 3,
+              "fragment": 217
+            },
+            {
+              "id": "part-3-fragment-229",
+              "part": 3,
+              "fragment": 229
+            },
+            {
+              "id": "part-4-fragment-1",
+              "part": 4,
+              "fragment": 1
+            },
+            {
+              "id": "part-4-fragment-12",
+              "part": 4,
+              "fragment": 12
+            },
+            {
+              "id": "part-4-fragment-21",
+              "part": 4,
+              "fragment": 21
+            },
+            {
+              "id": "part-4-fragment-34",
+              "part": 4,
+              "fragment": 34
+            },
+            {
+              "id": "part-4-fragment-54",
+              "part": 4,
+              "fragment": 54
+            },
+            {
+              "id": "part-4-fragment-69",
+              "part": 4,
+              "fragment": 69
+            },
+            {
+              "id": "part-4-fragment-81",
+              "part": 4,
+              "fragment": 81
+            },
+            {
+              "id": "part-4-fragment-92",
+              "part": 4,
+              "fragment": 92
+            },
+            {
+              "id": "part-4-fragment-103",
+              "part": 4,
+              "fragment": 103
+            },
+            {
+              "id": "part-4-fragment-115",
+              "part": 4,
+              "fragment": 115
+            },
+            {
+              "id": "part-4-fragment-126",
+              "part": 4,
+              "fragment": 126
+            },
+            {
+              "id": "part-4-fragment-138",
+              "part": 4,
+              "fragment": 138
+            },
+            {
+              "id": "part-4-fragment-150",
+              "part": 4,
+              "fragment": 150
+            },
+            {
+              "id": "part-4-fragment-161",
+              "part": 4,
+              "fragment": 161
+            },
+            {
+              "id": "part-4-fragment-173",
+              "part": 4,
+              "fragment": 173
+            },
+            {
+              "id": "part-4-fragment-187",
+              "part": 4,
+              "fragment": 187
+            },
+            {
+              "id": "part-4-fragment-199",
+              "part": 4,
+              "fragment": 199
+            },
+            {
+              "id": "part-4-fragment-212",
+              "part": 4,
+              "fragment": 212
+            },
+            {
+              "id": "part-4-fragment-224",
+              "part": 4,
+              "fragment": 224
+            },
+            {
+              "id": "part-4-fragment-236",
+              "part": 4,
+              "fragment": 236
+            },
+            {
+              "id": "part-4-fragment-248",
+              "part": 4,
+              "fragment": 248
+            },
+            {
+              "id": "part-4-fragment-260",
+              "part": 4,
+              "fragment": 260
+            },
+            {
+              "id": "part-5-fragment-1",
+              "part": 5,
+              "fragment": 1
+            },
+            {
+              "id": "part-5-fragment-14",
+              "part": 5,
+              "fragment": 14
+            }
+          ]
+        },
+        {
+          "id": "en-proofreading-2026-09-29",
+          "languageTag": "en",
+          "title": "Bridge to Knowledge",
+          "file": "books/bridge-to-knowledge/en/en-proofreading-2026-09-29/book.html",
+          "sha256": "8e99131c2e8c95461555a1d0497096a4a5a49737539ccebc6304030d767320da",
+          "approvalStatus": "owner-supplied-for-review",
+          "receivedAt": "2026-09-30",
+          "sourceEditionSha256": "d4a406bec45fbc112c693d594f5f2980f6f12e88df4652c17c6bbde40a173f75",
           "chapters": [
             {
               "id": "part-0-fragment-1",
@@ -549,6 +1071,234 @@
             {
               "id": "foreword",
               "title": "Introduction"
+            },
+            {
+              "id": "entry-2012-06-22",
+              "title": "2012-06-22"
+            },
+            {
+              "id": "entry-2012-06-23",
+              "title": "2012-06-23"
+            },
+            {
+              "id": "entry-2012-06-25",
+              "title": "2012-06-25"
+            },
+            {
+              "id": "entry-2012-06-26",
+              "title": "2012-06-26"
+            },
+            {
+              "id": "entry-2012-06-27",
+              "title": "2012-06-27"
+            },
+            {
+              "id": "entry-2012-06-28",
+              "title": "2012-06-28"
+            },
+            {
+              "id": "entry-2012-06-29",
+              "title": "2012-06-29"
+            },
+            {
+              "id": "entry-2012-07-12",
+              "title": "2012-07-12"
+            },
+            {
+              "id": "entry-2012-07-13",
+              "title": "2012-07-13"
+            },
+            {
+              "id": "entry-2012-07-14",
+              "title": "2012-07-14"
+            },
+            {
+              "id": "entry-2012-07-15",
+              "title": "2012-07-15"
+            },
+            {
+              "id": "entry-2012-07-16",
+              "title": "2012-07-16"
+            },
+            {
+              "id": "entry-2012-07-20",
+              "title": "2012-07-20"
+            },
+            {
+              "id": "entry-2012-07-21",
+              "title": "2012-07-21"
+            },
+            {
+              "id": "entry-2012-07-22",
+              "title": "2012-07-22"
+            },
+            {
+              "id": "entry-2012-07-23",
+              "title": "2012-07-23"
+            },
+            {
+              "id": "entry-2012-07-24",
+              "title": "2012-07-24"
+            },
+            {
+              "id": "entry-2012-07-25",
+              "title": "2012-07-25"
+            },
+            {
+              "id": "entry-2012-07-26",
+              "title": "2012-07-26"
+            },
+            {
+              "id": "entry-2012-07-27",
+              "title": "2012-07-27"
+            },
+            {
+              "id": "entry-2012-07-28",
+              "title": "2012-07-28"
+            },
+            {
+              "id": "entry-2012-07-29",
+              "title": "2012-07-29"
+            },
+            {
+              "id": "entry-2012-07-30",
+              "title": "2012-07-30"
+            },
+            {
+              "id": "entry-2012-07-31",
+              "title": "2012-07-31"
+            },
+            {
+              "id": "entry-2012-08-01",
+              "title": "2012-08-01"
+            },
+            {
+              "id": "entry-2012-08-02",
+              "title": "2012-08-02"
+            },
+            {
+              "id": "entry-2012-09-11",
+              "title": "2012-09-11"
+            },
+            {
+              "id": "entry-2012-09-12",
+              "title": "2012-09-12"
+            },
+            {
+              "id": "entry-2012-09-13",
+              "title": "2012-09-13"
+            },
+            {
+              "id": "entry-2012-09-14",
+              "title": "2012-09-14"
+            },
+            {
+              "id": "entry-2012-09-15",
+              "title": "2012-09-15"
+            },
+            {
+              "id": "entry-2012-09-16",
+              "title": "2012-09-16"
+            },
+            {
+              "id": "entry-2012-09-17",
+              "title": "2012-09-17"
+            },
+            {
+              "id": "entry-2012-09-19",
+              "title": "2012-09-19"
+            },
+            {
+              "id": "entry-2012-09-21",
+              "title": "2012-09-21"
+            },
+            {
+              "id": "entry-2012-09-22",
+              "title": "2012-09-22"
+            },
+            {
+              "id": "entry-2012-09-23",
+              "title": "2012-09-23"
+            },
+            {
+              "id": "entry-2012-09-24",
+              "title": "2012-09-24"
+            },
+            {
+              "id": "entry-2012-09-25",
+              "title": "2012-09-25"
+            },
+            {
+              "id": "entry-2012-09-28",
+              "title": "2012-09-28"
+            },
+            {
+              "id": "entry-2012-09-30",
+              "title": "2012-09-30"
+            },
+            {
+              "id": "entry-2012-10-01",
+              "title": "2012-10-01"
+            },
+            {
+              "id": "entry-2012-10-02",
+              "title": "2012-10-02"
+            },
+            {
+              "id": "entry-2012-10-03",
+              "title": "2012-10-03"
+            },
+            {
+              "id": "entry-2012-10-06",
+              "title": "2012-10-06"
+            },
+            {
+              "id": "entry-2012-10-07",
+              "title": "2012-10-07"
+            },
+            {
+              "id": "entry-2012-10-08",
+              "title": "2012-10-08"
+            },
+            {
+              "id": "entry-2012-10-11",
+              "title": "2012-10-11"
+            },
+            {
+              "id": "entry-2012-10-14",
+              "title": "2012-10-14"
+            },
+            {
+              "id": "entry-2012-10-15",
+              "title": "2012-10-15"
+            },
+            {
+              "id": "entry-2012-10-16",
+              "title": "2012-10-16"
+            },
+            {
+              "id": "entry-2012-10-20",
+              "title": "2012-10-20"
+            },
+            {
+              "id": "entry-2012-10-21",
+              "title": "2012-10-21"
+            }
+          ]
+        },
+        {
+          "id": "en-proofreading-2026-09-29",
+          "languageTag": "en",
+          "title": "Knowledge of Life Will Change The Life",
+          "file": "books/knowledge-of-life/en/en-proofreading-2026-09-29/book.html",
+          "sha256": "e7a384f23ced175770e9f712526e2156ef7187d1b7f28af2118640a26e2c6d25",
+          "approvalStatus": "owner-supplied-for-review",
+          "receivedAt": "2026-09-30",
+          "sourceEditionSha256": "6b3b2f6e62b9b43a2b2c597a9a556462b2f1a682ecada3866695bc4ed3735efd",
+          "chapters": [
+            {
+              "id": "foreword",
+              "title": "Foreword"
             },
             {
               "id": "entry-2012-06-22",

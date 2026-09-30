@@ -8,8 +8,8 @@
     },
     {
       "tag": "en",
-      "status": "planned",
-      "note": "Publish only after translation review and owner approval"
+      "status": "available",
+      "note": "Two owner-provided English review editions available for device testing"
     }
   ]
 }
