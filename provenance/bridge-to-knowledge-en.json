@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "bookId": "bridge-to-knowledge",
+  "editionId": "en-proofreading-2026-09-29",
+  "sourceDescription": "Owner-provided proofreading/book.en.html for device review",
+  "sourceSha256": "8e99131c2e8c95461555a1d0497096a4a5a49737539ccebc6304030d767320da",
+  "sourceEditionSha256": "d4a406bec45fbc112c693d594f5f2980f6f12e88df4652c17c6bbde40a173f75",
+  "sectionCount": 102,
+  "reviewStatus": "owner-supplied-for-review",
+  "receivedAt": "2026-09-30"
+}
