@@ -1,6 +1,6 @@
 # BookWeave content
 
-This public repository stores the two owner-approved Russian editions and two owner-provided English review copies for BookWeave, with source text, provenance, language status, and release tooling. The Android application is maintained separately in `miphorez/BridgeToKnowledge`.
+This public repository stores two owner-approved Russian editions and two English editions approved for publication on October 1, 2026, with source text, provenance, language status, and release tooling. The Android application is maintained separately in `miphorez/BridgeToKnowledge`.
 
 | Book | Edition | SHA-256 of `book.html` |
 | --- | --- | --- |
@@ -9,7 +9,7 @@ This public repository stores the two owner-approved Russian editions and two ow
 | Knowledge of Life | `ru-site-2026-09-22` | `6b3b2f6e62b9b43a2b2c597a9a556462b2f1a682ecada3866695bc4ed3735efd` |
 | Knowledge of Life (English review) | `en-proofreading-2026-09-29` | `e7a384f23ced175770e9f712526e2156ef7187d1b7f28af2118640a26e2c6d25` |
 
-`languages.json` records Russian and English as available. The English editions are review copies supplied by the owner for manual device testing; their final editorial acceptance is pending. `catalog-source.json` is the editable source of the signed application catalog. The release builder verifies pinned hashes and source records, then produces a detached publisher signature and versioned HTML assets. The private signing key is never stored in this repository.
+`languages.json` records Russian and English as available. The owner approved the exact English text hashes listed above for publication on October 1, 2026; see [content rights](RIGHTS.md). The immutable `content-v2` release retains its original review metadata. The next content release should record the subsequent approval. `catalog-source.json` is the editable source of the signed application catalog. The release builder verifies pinned hashes and source records, then produces a detached publisher signature and versioned HTML assets. The private signing key is never stored in this repository.
 
 The application downloads `catalog.json` and `catalog.sig` from the latest published release. It verifies the signature with its built-in public key before using any catalog data. Each HTML asset is fetched from the signed release tag and checked against its signed size and SHA-256 before it can enter the app's private cache. The bundled English and Russian editions remain available offline.
 
