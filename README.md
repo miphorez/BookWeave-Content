@@ -15,6 +15,10 @@ The application downloads `catalog.json` and `catalog.sig` from the latest publi
 
 To build a release locally, set `BOOKWEAVE_CONTENT_SIGNING_KEY` to the private PEM path outside all repositories, run `node tools/build-release.mjs`, then `node tools/verify-release.mjs`. Publish all files from `dist/` together as assets of the tag named in `catalog-source.json`. Enable immutable releases before publishing. See [content rights](RIGHTS.md) for the current permissions.
 
+## Public app documents
+
+`docs/privacy.html` and `docs/book-use.html` contain English and Russian app documents exported from the Android interface resources with `tools/export-public-documents.py` in the app repository. The book-use permissions were approved by the rights holder on October 1, 2026. The privacy copy describes the current local storage, optional HTTPS downloads, Android backups, and user-initiated sharing; the owner must review the related Play policy declarations before production submission. These pages do not expose signing credentials or grant repository write access.
+
 ## Adding a language without rebuilding the application
 
 Use the extensible translation-package app build; versions through 2.2.0 accept only Russian and English. Interface localization is separate and remains English/Russian.
