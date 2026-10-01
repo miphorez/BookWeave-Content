@@ -16,3 +16,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Verify approved source
         run: node tools/verify-source.mjs
+      - name: Verify additional-language validation
+        run: node --test tools/content-source.test.mjs

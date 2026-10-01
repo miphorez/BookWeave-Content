@@ -18,7 +18,7 @@ const catalog = JSON.parse(bytes);
 if (catalog.schemaVersion !== source.schemaVersion || catalog.catalogVersion !== source.catalogVersion ||
     catalog.releaseTag !== source.releaseTag || catalog.keyId !== source.keyId ||
     catalog.rights !== 'all-rights-reserved' ||
-    JSON.stringify(catalog.languages) !== JSON.stringify(languages.languages.map(item => item.tag)) ||
+    JSON.stringify(catalog.languages) !== JSON.stringify(languages.languages.filter(item => item.status === 'available').map(item => item.tag)) ||
     catalog.books.length !== source.books.length) throw new Error('Unexpected catalog');
 const assets = new Set(['catalog.json', 'catalog.sig']);
 for (const [bookIndex, book] of catalog.books.entries()) {
@@ -46,4 +46,4 @@ for (const [bookIndex, book] of catalog.books.entries()) {
 if (JSON.stringify(readdirSync(resolve(root, 'dist')).sort()) !== JSON.stringify([...assets].sort())) {
     throw new Error('Unexpected release files');
 }
-console.log('PASS: publisher signature, four asset sizes and SHA-256 checks.');
+console.log('PASS: publisher signature, all asset sizes and SHA-256 checks.');

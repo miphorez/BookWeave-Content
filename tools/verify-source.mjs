@@ -1,4 +1,4 @@
 import { verifySource } from './content-source.mjs';
 
-verifySource();
-console.log('PASS: four edition hashes, 156 original source texts, translation structure, and language status.');
+const { catalog } = verifySource();
+console.log(`PASS: ${catalog.books.flatMap(book => book.editions).length} edition hashes, original source texts, translation structure, and language status.`);

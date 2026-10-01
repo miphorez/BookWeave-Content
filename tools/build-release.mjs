@@ -22,7 +22,7 @@ const books = source.books.map(book => {
     }
     const editions = book.editions.map(edition => {
         const html = read(edition.file);
-        if (sha256(html) !== edition.sha256 || /<script\b|\son\w+=|<iframe\b|<object\b|<embed\b|<link\b/i.test(html.toString('utf8'))) {
+        if (html.length > 5 * 1024 * 1024 || sha256(html) !== edition.sha256 || /<script\b|\son\w+\s*=|<iframe\b|<object\b|<embed\b|<link\b/i.test(html.toString('utf8'))) {
             throw new Error(`Invalid approved content: ${edition.id}`);
         }
         const assetName = `${book.id}-${edition.id}.html`;
@@ -45,6 +45,7 @@ const catalog = {
     rights: 'all-rights-reserved', books,
 };
 const catalogBytes = Buffer.from(JSON.stringify(catalog, null, 2) + '\n', 'utf8');
+if (catalogBytes.length > 2 * 1024 * 1024) throw new Error('Catalog exceeds the application limit');
 const signature = sign('sha256', catalogBytes, privateKey);
 if (!verify('sha256', catalogBytes, publicKey, signature)) throw new Error('Signing key does not match public key');
 writeFileSync(resolve(dist, 'catalog.json'), catalogBytes);
