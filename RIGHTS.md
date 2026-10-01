@@ -1,6 +1,10 @@
 # Content rights
 
-The Russian book texts are copyright © Dmitry Solovyov. All rights reserved. Public access to this repository and its release files does not grant permission to republish, modify, or redistribute the texts. A separate content license may be published after the owner approves it.
+The books and their translations are protected by copyright. All rights reserved, except for the permissions below, approved by the rights holder on October 1, 2026.
+
+You may read the books for free for personal use, download official editions for personal offline reading, and share short quotations. Quotations must preserve the meaning of the original text and identify the book as their source.
+
+Full republication or redistribution of a book, distribution of modified texts or new translations, and commercial use require separate permission from the rights holder. These terms do not restrict uses permitted by applicable law, including statutory quotation exceptions. Public access to this repository and its release files does not grant an open license or any additional reuse rights. Third-party materials remain subject to their own terms.
 
 The owner approved the exact Russian editions identified in `catalog-source.json` on September 29, 2026. Earlier Proza.ru publications and certificates are recorded in `provenance/`. The forewords may differ from the editions distributed through BookWeave.
 
